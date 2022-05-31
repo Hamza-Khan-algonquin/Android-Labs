@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Android Labs</string>
-    <string name="hello_message">Asalam O Alaikum!</string>
-    <string name="ButtonText">I\'m a button</string>
-
+    <string name="app_name">android kee lab</string>
+    <string name="hello_message">Mera GUI Dheko!</string>
+    <string name="ButtonText">YAHA CLICK KARO</string>
+    <string name="CheckText">Ye Dheko!</string>
+    <string name="SwitchText">Switch kula / bund</string>
+    <string name="EditTextHint">Yaha type karo</string>
+    <string name="Toast">Yera more information</string>
+    <string name="snackOn">Switch aab on hai</string>
+    <string name="snackOff">Switch aab off hai</string>
 </resources>
