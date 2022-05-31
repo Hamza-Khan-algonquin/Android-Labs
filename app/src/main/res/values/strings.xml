@@ -8,4 +8,6 @@
     <string name="Toast">Here is more information</string>
     <string name="snackOn">The switch is now on</string>
     <string name="snackOff">The switch is now off</string>
+
+    <string name="lab2">Lab2 GUI</string>
 </resources>

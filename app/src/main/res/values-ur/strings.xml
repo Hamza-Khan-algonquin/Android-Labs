@@ -9,4 +9,6 @@
     <string name="Toast">Yera more information</string>
     <string name="snackOn">Switch aab on hai</string>
     <string name="snackOff">Switch aab off hai</string>
+
+    <string name="lab2">Lab2 GUI</string>
 </resources>
